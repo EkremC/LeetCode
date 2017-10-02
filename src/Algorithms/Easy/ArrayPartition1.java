@@ -19,6 +19,6 @@ public class ArrayPartition1 {
             sum += nums[i];
         }
 
-        return sum;
+        return sum; 
     }
 }
