@@ -4,10 +4,10 @@ package Algorithms.Easy;
  * Created by ekremcandemir on 3.10.2017.
  */
 // https://leetcode.com/problems/judge-route-circle/description/
-public class JudgeRouteCircle {
+public class _657_JudgeRouteCircle {
 
     public static void main(String[] args) {
-        JudgeRouteCircle jg = new JudgeRouteCircle();
+        _657_JudgeRouteCircle jg = new _657_JudgeRouteCircle();
         System.out.println(jg.judgeCircle("LL"));
     }
 
@@ -32,6 +32,6 @@ public class JudgeRouteCircle {
             }
         }
 
-        return (x == 0 && y == 0) ? true : false;
+        return (x == 0 && y == 0);
     }
 }

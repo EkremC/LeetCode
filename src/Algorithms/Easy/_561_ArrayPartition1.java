@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Created by ekremcandemir on 3.10.2017.
  */
 // https://leetcode.com/problems/array-partition-i/description/
-public class ArrayPartition1 {
+public class _561_ArrayPartition1 {
 
     public static void main(String[] args) {
 

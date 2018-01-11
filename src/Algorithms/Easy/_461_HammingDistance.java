@@ -4,10 +4,10 @@ package Algorithms.Easy;
  * Created by ekremcandemir on 3.10.2017.
  */
 // https://leetcode.com/problems/hamming-distance/description/
-public class HammingDistance {
+public class _461_HammingDistance {
 
     public static void main(String[] args){
-        HammingDistance hm = new HammingDistance();
+        _461_HammingDistance hm = new _461_HammingDistance();
         System.out.println(hm.hammingDistance(1, 4));
         int ret = 1 ^ 4;
         System.out.println("ret: " + ret);
