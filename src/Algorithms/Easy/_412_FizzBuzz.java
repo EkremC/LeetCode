@@ -1,4 +1,4 @@
-package Algorithm.Easy;
+package Algorithms.Easy;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -22,5 +22,9 @@ public class _412_FizzBuzz{
 		}
 
 		return list;
+	}
+
+	public static void main(String[] args) {
+		System.out.println("asdfasdf");
 	}
 }
